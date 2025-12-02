@@ -1,0 +1,173 @@
+[33mcommit 01cf0b06f4af81592b8077dcab681290abe8517c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: lazuriit <trubinov120811@gmail.com>
+Date:   Tue Dec 2 21:58:18 2025 +0700
+
+    убрал коментарий в sort.c
+
+[33mcommit 80659a4be3d55d78169988bd9244f3573ff14750[m
+Author: lazuriit <trubinov120811@gmail.com>
+Date:   Tue Dec 2 21:55:00 2025 +0700
+
+    скрин
+
+[33mcommit 424becbff50046c384c832bf2c9fdba552706585[m
+Author: lazuriit <trubinov120811@gmail.com>
+Date:   Tue Dec 2 21:48:43 2025 +0700
+
+    Добавил sort.c images
+
+[33mcommit def2f1d0ef9c8989b93c7087533ecf07fffbd950[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: lazuriit <trubinov120811@gmail.com>
+Date:   Tue Dec 2 21:41:13 2025 +0700
+
+    :(
+
+[33mcommit 71c56b016f65e475cb07a7741228bda29a6225b5[m
+Author: lazuriit <trubinov120811@gmail.com>
+Date:   Tue Dec 2 21:37:20 2025 +0700
+
+    :)
+
+[33mcommit 0b7b6072f4c339f1477aab1237655d56e25bbef3[m
+Author: lazuriit <trubinov120811@gmail.com>
+Date:   Tue Dec 2 21:32:31 2025 +0700
+
+    Добавление скриншотов, сортировки и изменений README
+
+[33mcommit 5de891e190c2dd0a8fca2aadff1e8a147ec55759[m
+Author: lazuriit <trubinov120811@gmail.com>
+Date:   Tue Dec 2 21:15:51 2025 +0700
+
+    добавил
+
+[33mcommit 7b22411dfd764e080c0b576e55c309272400e506[m
+Author: 𝙡𝙖𝙯𝙪𝙧𝙞𝙩 <126769113+lazuriit@users.noreply.github.com>
+Date:   Tue Dec 2 20:54:30 2025 +0700
+
+    Delete lab9_git directory
+
+[33mcommit ab954125ba8c5a00c5dedb9d92d545f85b60a4ad[m
+Author: lazuriit <trubinov120811@gmail.com>
+Date:   Tue Dec 2 20:07:06 2025 +0700
+
+    Добавлен файл README.md с начальной документацией по lab9_git
+
+[33mcommit fee15d376907f2f56748df371407da620055a58c[m
+Author: 𝙡𝙖𝙯𝙪𝙧𝙞𝙩 <126769113+lazuriit@users.noreply.github.com>
+Date:   Tue Dec 2 18:46:13 2025 +0700
+
+    Delete lab9_git directory
+
+[33mcommit 9a2a95c45d6bf601410492730ce0cbfeff6d21ac[m
+Author: 𝙡𝙖𝙯𝙪𝙧𝙞𝙩 <126769113+lazuriit@users.noreply.github.com>
+Date:   Tue Dec 2 18:16:02 2025 +0700
+
+    Create README.md
+
+[33mcommit 84815406b5237ab525f07628cf95774c1b6b6d03[m
+Author: 𝙡𝙖𝙯𝙪𝙧𝙞𝙩 <126769113+lazuriit@users.noreply.github.com>
+Date:   Tue Dec 2 18:12:59 2025 +0700
+
+    Delete laba9
+
+[33mcommit e49e6709ea93c0b818c9c13b65a515bacbe38835[m
+Author: 𝙡𝙖𝙯𝙪𝙧𝙞𝙩 <126769113+lazuriit@users.noreply.github.com>
+Date:   Tue Dec 2 18:12:42 2025 +0700
+
+    Create laba9
+
+[33mcommit eea233cbdc545f84d3da5390f391c32d2b94068c[m
+Author: 𝙡𝙖𝙯𝙪𝙧𝙞𝙩 <126769113+lazuriit@users.noreply.github.com>
+Date:   Fri Nov 28 09:23:44 2025 +0700
+
+    Готовая лабораторная работа №8 на 4
+
+[33mcommit a2e6b24700b48bbcf68bd64d90e3577d441e4224[m
+Author: 𝙡𝙖𝙯𝙪𝙧𝙞𝙩 <126769113+lazuriit@users.noreply.github.com>
+Date:   Fri Nov 28 09:22:24 2025 +0700
+
+    Create 8.c
+
+[33mcommit 81bacc663d84e5ac46f0746c9f8574b00b91e13b[m
+Author: 𝙡𝙖𝙯𝙪𝙧𝙞𝙩 <126769113+lazuriit@users.noreply.github.com>
+Date:   Fri Nov 28 09:22:00 2025 +0700
+
+    Delete laba8 directory
+
+[33mcommit 7d201a86ff27e638c6a2e6886431f9f3ebddb0c9[m
+Author: 𝙡𝙖𝙯𝙪𝙧𝙞𝙩 <126769113+lazuriit@users.noreply.github.com>
+Date:   Fri Nov 28 09:21:34 2025 +0700
+
+    Create 8.c
+
+[33mcommit 9bd07cfc5964f7431ad5ea0b8cd72e606d3c8b9f[m
+Author: 𝙡𝙖𝙯𝙪𝙧𝙞𝙩 <126769113+lazuriit@users.noreply.github.com>
+Date:   Fri Nov 28 09:21:16 2025 +0700
+
+    Delete 8.c
+
+[33mcommit 4341261e31140965eec1e748354df4d98aee8268[m
+Author: 𝙡𝙖𝙯𝙪𝙧𝙞𝙩 <126769113+lazuriit@users.noreply.github.com>
+Date:   Fri Nov 28 09:20:45 2025 +0700
+
+    Update 8.c
+
+[33mcommit db228743b6a8e783fe299904daa99203f60162a4[m
+Author: 𝙡𝙖𝙯𝙪𝙧𝙞𝙩 <126769113+lazuriit@users.noreply.github.com>
+Date:   Fri Nov 28 09:20:28 2025 +0700
+
+    Create 8.c
+
+[33mcommit 3615a061922ce9a4cd93c4fe33f831558c6f87b4[m
+Author: 𝙡𝙖𝙯𝙪𝙧𝙞𝙩 <126769113+lazuriit@users.noreply.github.com>
+Date:   Thu Nov 27 15:14:02 2025 +0700
+
+    Delete h.c
+
+[33mcommit c1dd6c50d1a68888c6b0cb46fd5d5cf6164662d1[m
+Author: lazuriit <126769113+lazuriit@users.noreply.github.com>
+Date:   Thu Nov 20 15:03:05 2025 +0700
+
+    Add files via upload
+
+[33mcommit 63184c891a8485ba10374fb9993bd21531ac80cc[m
+Author: LilSour <126769113+LilSour@users.noreply.github.com>
+Date:   Thu Nov 20 14:33:32 2025 +0700
+
+    Update README.md
+
+[33mcommit 11d4e85a8f29469cc0ad3b2206a501b27b99c79f[m
+Author: LilSour <126769113+LilSour@users.noreply.github.com>
+Date:   Thu Nov 20 14:29:59 2025 +0700
+
+    Update README.md
+
+[33mcommit b3b476648f2297a66117dafdd28bc5ee5dd91064[m
+Author: LilSour <126769113+LilSour@users.noreply.github.com>
+Date:   Thu Nov 20 14:17:40 2025 +0700
+
+    Update README.md
+
+[33mcommit 06c56aae2757682413d383a5212f430c66eef93f[m
+Author: LilSour <126769113+LilSour@users.noreply.github.com>
+Date:   Thu Nov 20 14:17:10 2025 +0700
+
+    Update README.md
+
+[33mcommit eb162ebe11e6490bc041bf0161196291a4fa89dc[m
+Author: LilSour <126769113+LilSour@users.noreply.github.com>
+Date:   Thu Nov 20 14:10:51 2025 +0700
+
+    Update README.md
+
+[33mcommit 90455f25f3024f6f694bb7446bf0efc69344d10e[m
+Author: LilSour <126769113+LilSour@users.noreply.github.com>
+Date:   Thu Nov 20 14:10:08 2025 +0700
+
+    Update README.md
+
+[33mcommit ca3cfc8cdabcf8ef7e1e3ecae5837f77634e5775[m
+Author: LilSour <126769113+LilSour@users.noreply.github.com>
+Date:   Thu Nov 20 14:05:15 2025 +0700
+
+    Initial commit
