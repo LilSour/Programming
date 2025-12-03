@@ -9,10 +9,3 @@ void bubble_sort(int size, int arr[size]) {
         }
     }
 }
-
-int main(){
-    int a[] = {4, 2};
-    bubble_sort(3, a);
-
-    return 0;
-}
