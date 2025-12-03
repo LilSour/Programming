@@ -63,3 +63,28 @@
 - git status во 2 раз уже нет указаний, так как мы откатили изменения sort.c
 
 ![Скриншоты](images/4.1.7.jpg)
+
+### 2.1-19
+![Скриншоты](images/4.2.1.jpg)
+![Скриншоты](images/4.2.2.jpg)
+- Создан файл greeting.txt c текстом "hello", создана ветка feature/uppercase, git status в feature/uppercase указывает на отсутствие изменений
+
+
+![Скриншоты](images/4.2.3.jpg)
+- git branch указывает на 3 существующие ветки, выделяет ветку в каторой мы находимся
+
+![Скриншоты](images/4.2.4.jpg)
+- git log --oneline --graph --all выводит дерево коммитов
+
+![Скриншоты](images/4.2.5.jpg)
+- Переместился в ветку main
+
+![Скриншоты](images/4.2.6.jpg)
+- cat вывел hello, git diff указывает на то, что в ветке feature/uppercase текст "hello" заменён на "HELLO"
+- после слияния веток main и feature/uppercase, cat в ветке main выводит HELLO
+
+![Скриншоты](images/4.2.7.jpg)
+- удаление ветки feature/uppercase, слияние веток main и mybranch
+
+![Скриншоты](images/4.2.8.jpg)
+- После слияния git log --oneline --graph --all выводи новое дерево коммитов
